@@ -1,4 +1,4 @@
-
+<!--
 <h3 align="center">👋 Hi there! I'm Anish Niroula</h3>
 <p align="center">
   <a href="http://anishniroula.rf.gd/">Website</a> •
@@ -13,12 +13,11 @@
 - 📫 How to reach me: [@theanishnirola](https://facebook.com/theanishniroula)
 - ⚡ Fun fact: I enjoy gaming and I'm wasting my time gaming . If you to join me playing [click here](https://www.youtube.com/channel/UCAN-30VlnvW5YAw7jZ32zFw)
 
-<!--
 [![Anish's github stats](https://github-readme-stats.vercel.app/api?username=theanishniroula)](https://github.com/theanishniroula/github-readme-stats)
 -->
 
 
-![Header image](https://raw.githubusercontent.com/jayrajroshan/jayrajroshan/master/gitbanner-anishniroula.png)
+![Header image](https://github.com/theanishniroula/theanishniroula/blob/master/gitbanner-anishniroula.png)
 <!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
 I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
 
