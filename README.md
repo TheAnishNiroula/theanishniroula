@@ -36,7 +36,7 @@ I'm a tech enthusiast who loves to learn about new things.
 <br>
 
 <p align = "center">
-- Graphic Design
+  Graphic Design
 - Web Development
 - So called Impossibles
 </p>
