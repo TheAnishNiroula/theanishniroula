@@ -12,3 +12,7 @@
 - 💬 Ask me about: Designing,  Web and How to waste time
 - 📫 How to reach me: [@theanishnirola](https://facebook.com/theanishniroula)
 - ⚡ Fun fact: I enjoy gaming and I'm wasting my time gaming . If you to join me playing [click here](https://www.youtube.com/channel/UCAN-30VlnvW5YAw7jZ32zFw)
+
+<!--
+[![Anish's github stats](https://github-readme-stats.vercel.app/api?username=theanishniroula)](https://github.com/theanishniroula/github-readme-stats)
+-->
