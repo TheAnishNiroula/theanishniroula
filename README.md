@@ -1,7 +1,7 @@
 ![Header image](https://github.com/theanishniroula/theanishniroula/blob/master/gitbanner-anishniroula.png)
 <!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
 
-## I'm a tech enthusiast who loves to learn about new things.
+## I'm Anish Niroula, a tech enthusiast who loves to learn about new things.
 
 <details open>
 <summary> <b>Connect with me on</b>: </summary>
