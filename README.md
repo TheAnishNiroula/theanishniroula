@@ -1,11 +1,11 @@
 ![Header image](https://github.com/theanishniroula/theanishniroula/blob/master/gitbanner-anishniroula.png)
 <!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
-I'm a tech enthusiast who loves to learn about new things. Connect with me on Facebook/LinkedIn.
+I'm a tech enthusiast who loves to learn about new things.
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 <details open>
-<summary>🤝 <b>To connect with me</b></summary>
+<summary>🤝 <b>Connect with me on</b>: </summary>
 
 <p align = "center">
  
@@ -20,9 +20,19 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Fa
 
 </p>
 
-## ⚡ Domains:
+---
+
+<details open>
+ <summary> ⚡ <b>My Domains</b>: </summary>
+
+<br>
+
+<p align = "center">
 - Graphic Design
 - Web Development
 - So called Impossibles
+</p>
+
+</details>
 
 [![Anish's github stats](https://github-readme-stats.vercel.app/api?username=theanishniroula)](https://github.com/theanishniroula/github-readme-stats)
