@@ -4,7 +4,7 @@
 ## I'm a tech enthusiast who loves to learn about new things.
 
 <details open>
-<summary>🤝 <b>Connect with me on</b>: </summary>
+<summary> <b>Connect with me on</b>: </summary>
 
 <p align = "center">
  
@@ -25,7 +25,7 @@
 
 
 <details open>
- <summary> ⚡ <b>My Domains</b>: </summary>
+ <summary>  <b>My Domains</b>: </summary>
 
 <p align = "left">
  
@@ -39,7 +39,7 @@
 
 
 <details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
+ <summary>  <b>My Github Stats</b>: </summary>
 
 <br>
 
