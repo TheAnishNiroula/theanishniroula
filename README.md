@@ -1,10 +1,14 @@
-# GUY AIMING SO CALLED IMPOSSIBLES
-### Find me on:
-<p>
-  <a href"https://github.com/theanishniroula?tab=follow">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/theanishniroula?style=for-the-badge">
-   </a>
-  <a href"https://twitter.com/theanishniroula">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/theanishniroula?style=for-the-badge">
-   </a>
+
+<h3 align="center">👋 Hi there! I'm Anish Niroula</h3>
+<p align="center">
+  <a href="http://anishniroula.rf.gd/">Website</a> •
+  <a href="https://twitter.com/theanishniroula">Twitter</a>
 </p>
+
+---
+✨ I'm a fully unstacked designer and key board guy writing shits based in 🤔🤔🤔 my room 🤔. I’m passionate about desiging stuffs {😄 deleting them and repeat} and also building projects in my head. 
+
+- 😄 My Likes: Every F'Kin thing    
+- 💬 Ask me about: Designing,  Web and Waste time
+- 📫 How to reach me: [@theanishnirola](https://twitter.com/theanishniroula)
+- ⚡ Fun fact: I enjoy gaming and I'm wasting my time gaming . If you to join me [click here](https://www.youtube.com/channel/UCAN-30VlnvW5YAw7jZ32zFw)
