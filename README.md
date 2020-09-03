@@ -4,11 +4,22 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Fa
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
+<details open>
+<summary>🤝 <b>To connect with me</b></summary>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Anish_Niroula-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anishniroula/)](https://www.linkedin.com/in/theanisniroula/)
-[![Facebook Badge](https://img.shields.io/badge/-theanishniroula-e4405f?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/theanishniroula/)](https://www.facebook.com/theanishniroula/)
-[![Website Badge](https://img.shields.io/badge/-anishniroula.rf.gd-e34f26?style=flat-square&logo=wordpress&logoColor=white&link=https://jayraj.co.in/)](http://anishniroula.rf.gd/)
-[![Gmail Badge](https://img.shields.io/badge/-theanishniroula@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@jayraj.co.in)](mailto:theanishniroula@gmail.com)
+<p align = "center">
+ 
+[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](http://anishniroula.rf.gd/)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/theanishniroula) 
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@pratikbaitha04)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anishniroula/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/theanishniroula/)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/theanishniroula)
+[<img src="https://img.shields.io/badge/gmail-%231877F2.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:theanishniroula@gmail.com)
+[![Visits Badge](https://badges.pufler.dev/visits/theanishniroula/theanishniroula?style=for-the-badge)](https://github.com/theanishniroula/theanishniroula)
+
+</p>
+
 ## ⚡ Domains:
 - Graphic Design
 - Web Development
