@@ -5,7 +5,7 @@
 
 <p align = "center">
  
-[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=wordpress&color=grey&logoColor=white%22">](http://anishniroula.rf.gd/)
+[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=ChartMogul&color=grey&logoColor=white%22">](http://anishniroula.rf.gd/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&color=grey&logoColor=white" />](https://twitter.com/theanishniroula) 
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&color=grey&logoColor=white" />](https://medium.com/@anishniroula)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&color=grey&logoColor=white" />](https://www.linkedin.com/in/anishniroula/)
