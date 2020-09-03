@@ -6,7 +6,7 @@
 </p>
 
 ---
-✨ I'm a fully unstacked designer and key board guy writing shits based in 🤔🤔🤔 my room 🤔. I’m passionate about desiging stuffs {😄 deleting them and repeat} and also building projects in my head. 
+✨ I'm a full stack designer and keyboard guy writing shits on VS code based in 🤔🤔🤔 my room 🤔. I’m passionate about desiging stuffs {😄 deleting them and repeat} and also building projects in my head. 
 
 - 😄 My Likes: Every F'Kin thing    
 - 💬 Ask me about: Designing,  Web and Waste time
