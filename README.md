@@ -22,7 +22,7 @@
 
 </details>
 
----
+
 
 <details open>
  <summary> ⚡ <b>My Domains</b>: </summary>
@@ -36,7 +36,7 @@
 
 </details>
 
----
+
 
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
