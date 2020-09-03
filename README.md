@@ -6,7 +6,7 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Fa
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Anish_Niroula-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anishniroula/)](https://www.linkedin.com/in/theanisniroula/)
-[![Instagram Badge](https://img.shields.io/badge/-theanishniroula-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/theanishniroula/)](https://www.instagram.com/theanishniroula/)
+[![Instagram Badge](https://img.shields.io/badge/-theanishniroula-e4405f?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/theanishniroula/)](https://www.facebook.com/theanishniroula/)
 [![Website Badge](https://img.shields.io/badge/-anishniroula.rf.gd-e34f26?style=flat-square&logo=wordpress&logoColor=white&link=https://jayraj.co.in/)](http://anishniroula.rf.gd/)
 [![Gmail Badge](https://img.shields.io/badge/-theanishniroula@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@jayraj.co.in)](mailto:theanishniroula@gmail.com)
 ## ⚡ Domains:
