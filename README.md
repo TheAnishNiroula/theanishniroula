@@ -1,10 +1,10 @@
 # GUY AIMING SO CALLED IMPOSSIBLES
 ### Find me on:
 <p>
-  <a href"">
+  <a href"https://github.com/theanishniroula?tab=follow">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/theanishniroula?style=for-the-badge">
    </a>
-  <a href"">
+  <a href"https://twitter.com/theanishniroula">
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/theanishniroula?style=for-the-badge">
    </a>
 </p>
