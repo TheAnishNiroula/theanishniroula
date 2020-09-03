@@ -42,6 +42,7 @@ I'm a tech enthusiast who loves to learn about new things.
 </p>
 
 </details>
+
 ---
 
 <details open>
