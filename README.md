@@ -45,9 +45,9 @@
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=theanishniroula&show_icons=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=anishniroula&show_icons=true&line_height=27">
   <!-- Remove this comment later anish
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=theanishniroula&hide=css,java,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anishniroula&hide=css,java,html&theme=tokyonight">
   -->
 </p>
 
