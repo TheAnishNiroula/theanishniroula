@@ -32,7 +32,7 @@
  
 - Graphic Design <br>
 - Web Development <br>
-- So called Impossibles
+- Gaming
 </p>
 
 </details>
