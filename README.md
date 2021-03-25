@@ -17,7 +17,6 @@
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&color=grey&logoColor=white">](https://www.instagram.com/anishniroula_/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&color=grey&logoColor=white" />](https://twitter.com/anishniroula_) 
 [<img src="https://img.shields.io/badge/codepen-%231877F2.svg?&style=for-the-badge&logo=codepen&color=grey&logoColor=white" />](https://codepen.io/theanishniroula)
-[![Visits Badge](https://badges.pufler.dev/visits/theanishniroula/theanishniroula?style=for-the-badge)](https://github.com/anishniroula/anishniroula)
 
 </p>
 
