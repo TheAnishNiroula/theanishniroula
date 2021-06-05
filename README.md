@@ -14,9 +14,9 @@
 <br>
 [<img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&color=grey&logoColor=white" />](https://www.youtube.com/anishniroulatv/) 
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&color=grey&logoColor=white" />](https://www.facebook.com/theanishniroula)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&color=grey&logoColor=white">](https://www.instagram.com/anishniroula_/)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&color=grey&logoColor=white" />](https://twitter.com/anishniroula_) 
-[<img src="https://img.shields.io/badge/codepen-%231877F2.svg?&style=for-the-badge&logo=codepen&color=grey&logoColor=white" />](https://codepen.io/theanishniroula)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&color=grey&logoColor=white">](https://www.instagram.com/theanishniroula/)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&color=grey&logoColor=white" />](https://twitter.com/theanishniroula) 
+[<img src="https://img.shields.io/badge/codepen-%231877F2.svg?&style=for-the-badge&logo=codepen&color=grey&logoColor=white" />](https://codepen.io/anishniroula)
 
 </p>
 
