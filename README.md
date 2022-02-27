@@ -1,4 +1,4 @@
-## I'm Anish Niroula, a gamer geek playing with bits & pixels.
+## I'm Anish Niroula, a guy playing with bits & pixels.
 
 <details open>
 <summary> <b>Connect with me on</b>: </summary>
