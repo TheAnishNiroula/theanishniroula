@@ -1,49 +1,26 @@
-## I'm Anish Niroula, a guy playing with bits & pixels.
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, I am Anish Niroula
+      </h1>
+    </summary>
+  </ul>
+</div>
 
-<details open>
-<summary> <b>Connect with me on</b>: </summary>
-
-<p align = "center">
+ **<h3 align="left">🎨💻By day, I’m mastering the art of turning concepts into code; by night, I’m honing my skills in crafting seamless user experiences. A frontend developer in the making with a designer’s eye, I’m on a journey to blend creativity with functional, intuitive web design.</h3>**
  
-[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=wordpress&color=grey&logoColor=white%22">](http://anishniroula.com.np/)
-[<img src="https://img.shields.io/badge/gmail-%231877F2.svg?&style=for-the-badge&logo=gmail&color=grey&logoColor=white" />](mailto:hello@anishniroula.com.np)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&color=grey&logoColor=white" />](https://www.linkedin.com/in/anishniroula/) 
-[<img src="https://img.shields.io/badge/dribbble-%230077B5.svg?&style=for-the-badge&logo=dribbble&color=grey&logoColor=white" />](https://dribbble.com/anishniroula) 
-<br>
-[<img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&color=grey&logoColor=white" />](https://www.youtube.com/theanishniroula/) 
-[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&color=grey&logoColor=white" />](https://www.facebook.com/theanishniroula)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&color=grey&logoColor=white">](https://www.instagram.com/theanishniroula/)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&color=grey&logoColor=white" />](https://twitter.com/theanishniroula) 
+**<h3 align="left">Socials:</h3>** 
+<p align="left"><a href="https://www.linkedin.com/in/anishniroula" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/anishniroulaxyz" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.facebook.com/anishniroulaxyz" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.behance.net/anishniroula" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://dribbble.com/anishniroula" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+
+
+ **<h3 align="left">Tech & Tools:</h3>**
+
+<p align="left"><img src="https://skillicons.dev/icons?i=c" height="32" alt="C" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="32" alt="HTML5" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="32" alt="CSS3" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="32" alt="VSCode" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="32" alt="Figma" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" height="32" alt="Illustrator" style="margin-right: 4px"></p>
+
+ **<h3 align="left">GitHub Stats</h3>**
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=anishniroula&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
-</details>
-
-
-
-<details open>
- <summary>  <b>I do</b>: </summary>
-
-<p align = "left">
- 
-- Graphic Design <br>
-- Web Development <br>
-- Gaming :)
-</p>
-
-</details>
-
-
-  <!-- Remove this comment later anish
-<details open>
- <summary>  <b>My Github Stats</b>: </summary>
-
-<br>
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=anishniroula&show_icons=true&line_height=27">
-  <!-- Remove this comment later anish
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anishniroula&hide=css,java,html&theme=tokyonight">
-  
-</p>
- -->
-</details>
