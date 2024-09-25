@@ -8,7 +8,7 @@
   </ul>
 </div>
 
- **<h3 align="left">🎨💻By day, I’m mastering the art of turning concepts into code; by night, I’m honing my skills in crafting seamless user experiences. A frontend developer in the making with a designer’s eye, I’m on a journey to blend creativity with functional, intuitive web design.</h3>**
+ **<h3 align="left">🎨💻By day, I’m mastering the art of turning concepts into code; by night, I’m honing my skills in crafting seamless user experiences. A web designer in the making with a designer’s eye, I’m on a journey to blend creativity with functional, intuitive web design.</h3>**
  
 **<h3 align="left">Socials:</h3>** 
 <p align="left"><a href="https://www.linkedin.com/in/anishniroula" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/anishniroulaxyz" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.facebook.com/anishniroulaxyz" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.behance.net/anishniroula" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://dribbble.com/anishniroula" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" height="28" style="margin-right: 4px"></a></p>
